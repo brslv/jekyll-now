@@ -3,7 +3,7 @@ layout: post
 title: What is Human Makes Products
 ---
 
-###What is Human Makes Products?
+### What is Human Makes Products?
 Human Makes Products is the web spot, where I document my journey through the unknown, trying to make meaningful side projects and hustling to bring them to the people. My main goal with Human Makes Products is to share my experience and knowledge about the process and at the same time hold myself accountable for sticking to it and learning to accept it and love it.
 
 It's kind of my personal way to reflect and meditate on my progress.
