@@ -21,9 +21,12 @@ Basically everything that I encounter throughout the process and found some valu
 
 Think of Human Makes Products as curated selection of life/business lessons with an accent on becoming better human being.
 
-### So, do you have a plan?
-Of course I have and it's pretty simple. Write a single post each week, summarizing thoughts, lessons and things that happened during it. That's it.
+### And who are you?
+Aw, glad you asked. My name is Borisalv and I'm 27 years old sofware developer from Sofia, Bulgaria. If you'd like to know me better, read more about me <a href="{{ site.baseurl }}/about">here</a>.
 
-Sounds cool? Subscribe for my newsletter to send you the latest posts directly in your inbox. And of course, spamming is not my goal, so feel safe ;)
+### So, do you have a plan?
+Of course I have and it's pretty simple. I'll try to write a single post each week, summarizing thoughts, lessons and things that happened during it. That's it.
+
+Sounds cool and want more? <a href="{{ site.baseurl }}/subscribe">Subscribe to my newsletter</a>.
 
 OK. Let the journey begin.
