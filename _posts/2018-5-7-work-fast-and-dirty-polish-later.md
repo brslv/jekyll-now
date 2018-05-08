@@ -12,9 +12,9 @@ Now I use a more strategical approach when developing things. The process can be
 1. Come up with an idea and decide which are the 100% essential parts of it. Those are the things, that without them, your product/business/idea/feature would be pointless;
 2. Execute these "essential parts" as fast and dirty as you can;
 3. Make sure the thing is working properly, or if it's an idea or business - make sure it's validated (by yourself or by your target audience);
-4. Polish the thing you've built;
-5. Execute again with the next important thing.
+4. Polish the thing you've built, but to the point where you concider the thing is just "good" not "perfect". Striving for perfection is a time wasting and exhausting activity which doesn't provide much <a href="https://en.wikipedia.org/wiki/Return_on_investment">ROI</a>;
+5. Execute again the list from point 1 with the next important thing.
 
 > Remember: you should strive to face the potential difficulties as soon as possible.
 
-Following the above process you're focusing on execution and usability, not so much about form and beauty. That way you're going to face and resolve your difficulties ASAP, so that you have time for the important things. At the end of the day, a product/idea/functionality should be working and satisfying needs. So keep the focus on execution. Develop as simple as possible, remove the useless stuff and make people happy. That's your goal as a human being.
+Following the above process you're focusing on execution and usability, not so much on form and beauty. That way you're going to face and resolve your difficulties ASAP, so that you have time for the important things. At the end of the day, a product/idea/functionality should be working and satisfying needs. So keep the focus on execution. Develop as simple as possible, remove the useless stuff and make people happy. That's your goal as a human being.
